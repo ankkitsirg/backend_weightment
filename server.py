@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Request
+from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import json
@@ -23,6 +24,12 @@ if os.path.exists(DATA_FILE):
             received_entries = []
 else:
     received_entries = []
+
+@app.get("/api/download-json")
+def download_json():
+    if os.path.exists(DATA_FILE):
+        return FileResponse(path=DATA_FILE, filename="entries.json", media_type="application/json")
+    return {"error": "File not found or server just restarted"}
 
 # --- Endpoint: Tell the client where to start ---
 @app.get("/api/last-id")
