@@ -24,7 +24,7 @@ if os.path.exists(DATA_FILE):
 else:
     received_entries = []
 
-# --- NEW ENDPOINT: Tell the client where to start ---
+# --- Endpoint: Tell the client where to start ---
 @app.get("/api/last-id")
 def get_last_id():
     if not received_entries:
@@ -39,7 +39,7 @@ async def receive_entry(request: Request):
     data = await request.json()
     incoming_id = data.get("ID")
     
-    # --- NEW SAFETY CHECK: Prevent duplicates ---
+    # ---  CHECK: Prevent duplicates ---
     if any(entry.get("ID") == incoming_id for entry in received_entries):
         return {"status": "ignored", "message": f"ID {incoming_id} already exists"}
 
