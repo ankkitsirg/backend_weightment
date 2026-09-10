@@ -24,7 +24,7 @@
     <script>
         async function fetchData() {
             try {
-                const response = await fetch('https://ankiitpythonanywhere.pythonanywhere.com/api/entries');
+                const response = await fetch('https://backend-weightment.onrender.com/api/entries');
                 const data = await response.json();
                 
                 if (data.length > 0) {
