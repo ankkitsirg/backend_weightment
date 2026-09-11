@@ -1,0 +1,150 @@
+2026-09-09 20:57:16,625 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 20:58:35,843 - ERROR - Database connection or execution error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/new-entry (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023CA3FFEA10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-09-09 20:58:42,891 - ERROR - Database connection or execution error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/new-entry (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023CA4009CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-09-09 20:58:47,909 - INFO - Successfully synced ID: 79
+2026-09-09 21:39:12,713 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 22:55:57,935 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 23:00:48,256 - INFO - Successfully synced ID: 80
+2026-09-09 23:04:31,469 - ERROR - Database connection or execution error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/new-entry (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016754290B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-09-09 23:04:34,571 - INFO - Successfully synced ID: 74
+2026-09-09 23:04:36,513 - INFO - Successfully synced ID: 75
+2026-09-09 23:04:38,468 - INFO - Successfully synced ID: 76
+2026-09-09 23:04:38,511 - ERROR - Database connection or execution error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/new-entry (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167542B1750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-09-09 23:04:40,306 - INFO - Successfully synced ID: 77
+2026-09-09 23:04:42,146 - INFO - Successfully synced ID: 78
+2026-09-09 23:04:44,091 - INFO - Successfully synced ID: 79
+2026-09-09 23:04:45,546 - ERROR - Database connection or execution error: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/new-entry (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167542B3850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-09-09 23:04:46,042 - INFO - Successfully synced ID: 80
+2026-09-09 23:04:46,761 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 23:16:43,558 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 23:16:43,558 - INFO - No tracker file found. Bootstrapping the latest 100 records...
+2026-09-09 23:16:52,845 - INFO - Successfully bootstrapped 100 records. Now tracking from ID: 80
+2026-09-09 23:21:10,935 - INFO - Successfully synced ID: 74
+2026-09-09 23:21:12,276 - INFO - Successfully synced ID: 75
+2026-09-09 23:21:13,580 - INFO - Successfully synced ID: 76
+2026-09-09 23:21:14,893 - INFO - Successfully synced ID: 77
+2026-09-09 23:21:16,234 - INFO - Successfully synced ID: 78
+2026-09-09 23:21:17,585 - INFO - Successfully synced ID: 79
+2026-09-09 23:21:18,905 - INFO - Successfully synced ID: 80
+2026-09-09 23:23:27,705 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-09 23:23:27,705 - INFO - No tracker file found. Bootstrapping the latest 100 records...
+2026-09-09 23:23:36,862 - INFO - Successfully bootstrapped 100 records. Now tracking from ID: 80
+2026-09-09 23:28:49,820 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 11:52:44,728 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 15:09:30,288 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 18:58:22,755 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 19:49:33,082 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 19:53:11,277 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 19:54:20,177 - INFO - Successfully synced ID: 74
+2026-09-10 19:54:20,698 - INFO - Successfully synced ID: 74
+2026-09-10 19:54:22,351 - INFO - Successfully synced ID: 75
+2026-09-10 19:54:22,368 - INFO - Successfully synced ID: 75
+2026-09-10 19:54:22,443 - INFO - Successfully synced ID: 75
+2026-09-10 19:54:24,176 - INFO - Successfully synced ID: 76
+2026-09-10 19:54:24,176 - INFO - Successfully synced ID: 76
+2026-09-10 19:54:24,556 - INFO - Successfully synced ID: 76
+2026-09-10 19:54:25,812 - INFO - Successfully synced ID: 77
+2026-09-10 19:54:26,529 - INFO - Successfully synced ID: 77
+2026-09-10 19:54:27,346 - INFO - Successfully synced ID: 78
+2026-09-10 19:54:27,346 - INFO - Successfully synced ID: 78
+2026-09-10 19:54:28,576 - INFO - Successfully synced ID: 78
+2026-09-10 19:54:28,946 - INFO - Successfully synced ID: 79
+2026-09-10 19:54:29,482 - INFO - Successfully synced ID: 79
+2026-09-10 19:54:30,442 - INFO - Successfully synced ID: 80
+2026-09-10 19:54:30,578 - INFO - Successfully synced ID: 79
+2026-09-10 19:54:31,004 - INFO - Successfully synced ID: 80
+2026-09-10 19:54:32,680 - INFO - Successfully synced ID: 80
+2026-09-10 20:05:38,449 - INFO - --- Starting MS Access to FastAPI sync service ---
+2026-09-10 20:05:38,449 - INFO - No tracker file found. Bootstrapping the latest 100 records...
+2026-09-10 20:05:47,320 - INFO - Successfully bootstrapped 100 records. Now tracking from ID: 80
+2026-09-10 20:18:54,667 - INFO - --- Starting Continuous MS Access to FastAPI sync service ---
+2026-09-10 20:18:57,238 - INFO - Successfully synced ID: 74
+2026-09-10 20:18:58,369 - INFO - Successfully synced ID: 75
+2026-09-10 20:18:59,640 - INFO - Successfully synced ID: 76
+2026-09-10 20:19:00,929 - INFO - Successfully synced ID: 77
+2026-09-10 20:19:02,224 - INFO - Successfully synced ID: 78
+2026-09-10 20:19:03,489 - INFO - Successfully synced ID: 79
+2026-09-10 20:19:04,820 - INFO - Successfully synced ID: 80
+2026-09-10 20:25:05,696 - INFO - Successfully synced ID: 74
+2026-09-10 20:25:07,328 - INFO - Successfully synced ID: 75
+2026-09-10 20:25:08,764 - INFO - Successfully synced ID: 76
+2026-09-10 20:25:10,807 - INFO - Successfully synced ID: 77
+2026-09-10 20:25:12,554 - INFO - Successfully synced ID: 78
+2026-09-10 20:25:14,400 - INFO - Successfully synced ID: 79
+2026-09-10 20:25:15,829 - INFO - Successfully synced ID: 80
+2026-09-10 20:43:02,980 - INFO - Successfully synced ID: 74
+2026-09-10 20:43:04,349 - INFO - Successfully synced ID: 75
+2026-09-10 20:43:06,040 - INFO - Successfully synced ID: 76
+2026-09-10 20:43:07,677 - INFO - Successfully synced ID: 77
+2026-09-10 20:43:09,115 - INFO - Successfully synced ID: 78
+2026-09-10 20:43:10,958 - INFO - Successfully synced ID: 79
+2026-09-10 20:43:12,390 - INFO - Successfully synced ID: 80
+2026-09-10 20:45:00,680 - INFO - Successfully synced ID: 74
+2026-09-10 20:45:02,164 - INFO - Successfully synced ID: 75
+2026-09-10 20:45:03,497 - INFO - Successfully synced ID: 76
+2026-09-10 20:45:05,031 - INFO - Successfully synced ID: 77
+2026-09-10 20:45:06,568 - INFO - Successfully synced ID: 78
+2026-09-10 20:45:08,411 - INFO - Successfully synced ID: 79
+2026-09-10 20:45:10,049 - INFO - Successfully synced ID: 80
+2026-09-10 20:49:05,334 - INFO - Successfully synced ID: 74
+2026-09-10 20:49:07,541 - INFO - Successfully synced ID: 75
+2026-09-10 20:49:09,224 - INFO - Successfully synced ID: 76
+2026-09-10 20:49:10,902 - INFO - Successfully synced ID: 77
+2026-09-10 20:49:12,333 - INFO - Successfully synced ID: 78
+2026-09-10 20:49:13,770 - INFO - Successfully synced ID: 79
+2026-09-10 20:49:15,304 - INFO - Successfully synced ID: 80
+2026-09-10 21:11:28,934 - INFO - Successfully synced ID: 74
+2026-09-10 21:11:29,683 - INFO - Successfully synced ID: 75
+2026-09-10 21:11:30,644 - INFO - Successfully synced ID: 76
+2026-09-10 21:11:31,481 - INFO - Successfully synced ID: 77
+2026-09-10 21:11:32,344 - INFO - Successfully synced ID: 78
+2026-09-10 21:11:33,265 - INFO - Successfully synced ID: 79
+2026-09-10 21:11:34,058 - INFO - Successfully synced ID: 80
+2026-09-10 22:25:14,047 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000185F917D0D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2026-09-10 22:25:19,056 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917FD90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:24,060 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9182790>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:29,063 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9181CD0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:34,075 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918D910>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:39,078 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9182DD0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:44,085 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91816D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:49,086 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917F710>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:54,090 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918DC90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:25:59,094 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918F490>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:04,117 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91A5310>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:09,123 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918ED90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:14,130 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917C750>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:19,147 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917FD50>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:24,159 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9182E50>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:29,177 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91822D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:34,194 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91A7110>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:39,214 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9181310>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:44,219 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9182ED0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:49,227 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917C890>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:54,240 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918E050>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:26:59,253 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91A6850>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:04,269 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91ACF90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:09,298 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918F510>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:14,313 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917E110>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:19,328 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917F5D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:24,366 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9183DD0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:27:55,284 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91ADC10>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:00,292 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91AF1D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:05,296 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9181610>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:10,312 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9181A50>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:15,319 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917E310>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:20,329 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918E0D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:25,353 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91AD550>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:30,361 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91B8DD0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:35,371 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F918C0D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:40,378 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91A7410>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:45,385 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F917F5D0>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:50,391 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F91AFB90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-10 22:28:55,399 - ERROR - Could not reach server to get last ID: HTTPSConnectionPool(host='backend-weightment.onrender.com', port=443): Max retries exceeded with url: /api/last-id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000185F9182A90>: Failed to resolve 'backend-weightment.onrender.com' ([Errno 11001] getaddrinfo failed)"))
+2026-09-11 06:55:11,121 - INFO - --- Starting Continuous MS Access to FastAPI sync service ---
+2026-09-11 06:55:38,025 - INFO - Successfully synced ID: 74
+2026-09-11 06:55:39,227 - INFO - Successfully synced ID: 75
+2026-09-11 06:55:40,586 - INFO - Successfully synced ID: 76
+2026-09-11 06:55:41,815 - INFO - Successfully synced ID: 77
+2026-09-11 06:55:42,736 - INFO - Successfully synced ID: 78
+2026-09-11 06:55:43,864 - INFO - Successfully synced ID: 79
+2026-09-11 06:55:45,197 - INFO - Successfully synced ID: 80

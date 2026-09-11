@@ -1,0 +1,7 @@
+pip install pyodbc requests pyinstaller fastapi uvicorn
+
+pyinstaller --noconsole --onedir db_sync.py 
+
+pip list
+
+pip freeze > requirements.txt
