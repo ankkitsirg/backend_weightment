@@ -25,6 +25,22 @@ if os.path.exists(DATA_FILE):
 else:
     received_entries = []
 
+ # --- Endpoint: Login ---
+@app.post("/api/login")
+async def login(request: Request):
+    data = await request.json()
+    username = data.get("username")
+    password = data.get("password")
+    
+    if username == "admin" and password == "1234":
+        return {"success": True, "message": "Login successful"}
+    
+    # Returns a 401 status code which triggers the "response.ok === false" check in React Native
+    return JSONResponse(
+        status_code=401, 
+        content={"message": "Incorrect username or password"}
+    )   
+
 @app.get("/api/download-json")
 def download_json():
     if os.path.exists(DATA_FILE):
