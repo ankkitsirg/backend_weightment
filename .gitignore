@@ -4,3 +4,6 @@ test.py
 /dist/
 /build/
 *.spec
+report.html
+db_sync.log
+.gitignore
